@@ -5,3 +5,8 @@ def farewell(name):
     print("Goodbye, " + name + "!")
 
 farewell("Nahidath")
+
+def ask():
+    print("How are you?")
+
+ask()
