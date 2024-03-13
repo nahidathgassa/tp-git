@@ -10,3 +10,8 @@ def ask():
     print("How are you?")
 
 ask()
+
+def thanks():
+    print("Thank you for your time!")
+
+thanks()
