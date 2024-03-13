@@ -1,3 +1,7 @@
 def greet(name):
     print("Hello, " + name + "!")
-greet("Nahidath")
+greet("Mimi")
+def farewell(name):
+    print("Goodbye, " + name + "!")
+
+farewell("Nahidath")
